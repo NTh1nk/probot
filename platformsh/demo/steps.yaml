@@ -4,6 +4,8 @@ description: |
 
   # GitHub/Probot App Template for Platform.sh
 
+  This is a very cool bot
+
   Continue to follow the README Post-install steps to set up your app for production.
 
 issue_opened: |
